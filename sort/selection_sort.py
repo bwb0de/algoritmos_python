@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# license: AGPL-3.0 
+#
 
 def find_minimum(input_list, initial_index=0, return_element=False):
     
